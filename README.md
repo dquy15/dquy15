@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dquy15/dquy15/blob/master/code.gif">
+  <img src="https://raw.githubusercontent.com/dquy15/dquy15/main/code.gif">
 </p>
 
 <p align="center">
